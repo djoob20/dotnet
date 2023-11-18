@@ -1,0 +1,5 @@
+/Users/dembadiop/Projects/StudyPortal/StudyPortal.Tests/obj/Debug/net7.0/StudyPortal.Tests.csproj.AssemblyReference.cache
+/Users/dembadiop/Projects/StudyPortal/StudyPortal.Tests/obj/Debug/net7.0/StudyPortal.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dembadiop/Projects/StudyPortal/StudyPortal.Tests/obj/Debug/net7.0/StudyPortal.Tests.AssemblyInfoInputs.cache
+/Users/dembadiop/Projects/StudyPortal/StudyPortal.Tests/obj/Debug/net7.0/StudyPortal.Tests.AssemblyInfo.cs
+/Users/dembadiop/Projects/StudyPortal/StudyPortal.Tests/obj/Debug/net7.0/StudyPortal.Tests.csproj.CoreCompileInputs.cache
