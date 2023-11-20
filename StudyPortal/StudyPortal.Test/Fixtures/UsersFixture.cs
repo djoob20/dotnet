@@ -10,27 +10,30 @@ namespace StudyPortal.Test.Fixtures
             return new List<User>()
             {
                 new (
-                    "Dummy UId1",
-                    "Dummy Fname",
-                    "Dummy Lname",
-                    "Dummy email",
-                    "Dummy password"
+                    id:"Dummy UId1",
+                    firstname:"Dummy Fname",
+                    lastname:"Dummy Lname",
+                    email: "Dummy email",
+                    password:"Dummy password",
+                    role:"user"
                     ),
 
                 new (
-                    "Dummy UId2",
-                    "Dummy Fname",
-                    "Dummy Lname",
-                    "Dummy email",
-                    "Dummy password"
+                    id:"Dummy UId2",
+                    firstname:"Dummy Fname",
+                    lastname:"Dummy Lname",
+                    email: "Dummy email",
+                    password:"Dummy password",
+                    role:"user"
                     ),
 
                 new (
-                    "Dummy UId3",
-                    "Dummy Fname",
-                    "Dummy Lname",
-                    "Dummy email",
-                    "Dummy password"
+                    id:"Dummy UId3",
+                    firstname:"Dummy Fname",
+                    lastname:"Dummy Lname",
+                    email: "Dummy email",
+                    password:"Dummy password",
+                    role:"user"
                     )
             };
 
